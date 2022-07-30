@@ -39,6 +39,6 @@
 
 ## 🔎 Find me
 
-<a href="https://www.linkedin.com/in/simonhongseoupyun"/><img src="https://user-images.githubusercontent.com/89428637/176028054-773c216e-ca07-4ad2-9755-2648f3316f78.png" width="5%" ></a> <a href="https://www.instagram.com/yunhongseoup/"/> <img src="https://user-images.githubusercontent.com/89428637/176028563-106d8b97-ec5c-43ce-b6c5-1a33b1b40069.jpeg" width="5%"></a> 
+<a target=”_blank” href="https://www.linkedin.com/in/simonhongseoupyun"/><img src="https://user-images.githubusercontent.com/89428637/176028054-773c216e-ca07-4ad2-9755-2648f3316f78.png" width="5%" ></a> <a target=”_blank” href="https://www.instagram.com/yunhongseoup/"/> <img src="https://user-images.githubusercontent.com/89428637/176028563-106d8b97-ec5c-43ce-b6c5-1a33b1b40069.jpeg" width="5%"></a> 
 
 
