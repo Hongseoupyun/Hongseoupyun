@@ -19,6 +19,9 @@
 
 📄 Pleae check my resume [here](https://resume.creddle.io/resume/ew0nc133t6q).
 
+📄 Please check my portfolio [here](https://hongseoupyun.netlify.app/).
+
+
 ## 👨‍💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
