@@ -1,7 +1,7 @@
 # <p align="center"> <b>Hello World! 👋 </b> </p>
 
 <p align="left">
-<b>I am Simon Yun, Full Stack Web Developer from Seoul, South Korea🇰🇷, currently based in Toronto, Canada🇨🇦.</b>
+<b>I am Simon Yun, Full Stack Web Developer from Seoul, South Korea🇰🇷, educated in India🇮🇳 currently based in Toronto, Canada🇨🇦.</b>
 </p>
 
 
