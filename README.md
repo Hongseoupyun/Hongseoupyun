@@ -19,7 +19,7 @@
 
 📄 Pleae check my resume [here](https://resume.creddle.io/resume/ew0nc133t6q).
 
-📄 Please check my portfolio [here](https://hongseoupyun.netlify.app/).
+📄 Please check my portfolio [here](https://simon-yun.netlify.app/).
 
 
 ## 👨‍💻 Tech Stack
