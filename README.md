@@ -36,6 +36,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
+![Figma](https://img.shields.io/badge/-Figma-F05032?logo=figma&logoColor=white&style=plastic)
 
 ## 🔎 Find me
 
