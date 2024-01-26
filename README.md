@@ -11,9 +11,9 @@
 
 ## 👊 About me
 
-💻 I am a Full stack web developer with a passion in building user-friendly apps and interest in problem solving.
+💻 I am an IT Support Engineer with a passion in building user-friendly apps and interest in problem solving.
 
-📈 I am always on track for improving and learning more Web developent skiils.
+📈 I am always on track for improving and learning more IT technologies.
 
 🎾 In my free time, I like to play tennis.
 
