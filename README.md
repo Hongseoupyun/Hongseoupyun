@@ -6,7 +6,7 @@
 
 
  <p align="center" width="100%">
-    <img width="50%" src="[https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw16K5NI4cNsp9O_rZnDdUGf&ust=1706327427010000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCAi5OT-oMDFQAAAAAdAAAAABAE)">
+    <img width="50%" src="[https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw16K5NI4cNsp9O_rZnDdUGf&ust=1706327427010000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCAi5OT-oMDFQAAAAAdAAAAABAE">
 </p>
 
 ## 👊 About me
